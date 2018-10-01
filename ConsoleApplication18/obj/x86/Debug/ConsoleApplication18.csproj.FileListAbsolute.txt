@@ -1,0 +1,4 @@
+c:\users\sama lenovo\roaming\documents\visual studio 2010\Projects\ConsoleApplication18\ConsoleApplication18\bin\Debug\ConsoleApplication18.exe
+c:\users\sama lenovo\roaming\documents\visual studio 2010\Projects\ConsoleApplication18\ConsoleApplication18\bin\Debug\ConsoleApplication18.pdb
+c:\users\sama lenovo\roaming\documents\visual studio 2010\Projects\ConsoleApplication18\ConsoleApplication18\obj\x86\Debug\ConsoleApplication18.exe
+c:\users\sama lenovo\roaming\documents\visual studio 2010\Projects\ConsoleApplication18\ConsoleApplication18\obj\x86\Debug\ConsoleApplication18.pdb
